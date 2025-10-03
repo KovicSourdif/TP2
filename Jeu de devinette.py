@@ -1,3 +1,7 @@
+#kovic sourdif 404
+#septembre
+# Jeu de devienettes
+
 import random
 
 play = True
